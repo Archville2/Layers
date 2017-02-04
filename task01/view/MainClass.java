@@ -12,7 +12,7 @@ public class MainClass {
 		String response;
 		String task;
 
-		System.out.println("Введите выражение. Например 3/5 + 2/1");
+		System.out.println("Enter expression. I.e. 3/5 + 2/1");
 		
 		while (true) {
 			task = scanner.nextLine();
